@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\femboytester\bin\Debug\femboytester.exe.config
+C:\Users\jacob\source\repos\femboytester\bin\Debug\femboytester.exe
+C:\Users\jacob\source\repos\femboytester\bin\Debug\femboytester.pdb
+C:\Users\jacob\source\repos\femboytester\obj\Debug\femboytester.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\femboytester\obj\Debug\femboytester.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\source\repos\femboytester\obj\Debug\femboytester.Form1.resources
+C:\Users\jacob\source\repos\femboytester\obj\Debug\femboytester.Properties.Resources.resources
+C:\Users\jacob\source\repos\femboytester\obj\Debug\femboytester.csproj.GenerateResource.cache
+C:\Users\jacob\source\repos\femboytester\obj\Debug\femboytester.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\femboytester\obj\Debug\femboytester.exe
+C:\Users\jacob\source\repos\femboytester\obj\Debug\femboytester.pdb
+C:\Users\jacob\source\repos\femboytester\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\jacob\source\repos\femboytester\bin\Debug\System.ValueTuple.dll
+C:\Users\jacob\source\repos\femboytester\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\jacob\source\repos\femboytester\obj\Debug\femboytester.csproj.CopyComplete
